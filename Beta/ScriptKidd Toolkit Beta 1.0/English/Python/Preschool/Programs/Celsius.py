@@ -1,0 +1,21 @@
+print ("This is a basic weather program using the modulus % to convert Fahrenheit to Celsius")
+print ("Just add a location (doesn't matter what you type) then enter a number, and it will convert it to fahrenheit")
+print ("|*|Kidd Weather| |V1")
+print ("'''''''''''''''''''''''''''''''''''''''''''''|")
+print ("Examples:                                    |")
+print ("32 degrees Fahrenheit = 0 degrees celsius    |")
+print ("0 degrees Fahrenheit = ")
+print ("||||||||||||||||||||||||||||||||||||||||||||||")
+loc = input("| Where are you? ")
+print ("| Location set to: " + loc)
+print ("||||||||||||||||||||||||||||||||||||||||||||||")
+fah = float(input("| Enter temperature in Fahrenheit: "))
+cel = (fah - 32.0) * 5/9
+print ("| The current temperature in " + loc + " is Celsius: " + str(cel))
+print (" ")
+print ("| Operating completed successfully!")
+endin = int(input("| press enter to exit "))
+if endin == 1:
+	print ("| Closing")
+else:
+	print ("| Closing")
