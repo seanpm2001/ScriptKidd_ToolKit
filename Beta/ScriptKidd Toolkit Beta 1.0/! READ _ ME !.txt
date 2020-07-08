@@ -1,0 +1,46 @@
+About the ScriptKidd offline course|
+''''''''''''''''''''''''''''''''''''
+
+
+|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^|
+| WARNING!                                                                    |
+| DO NOT MOVE ANY FILES AROUND! THIS WILL MAKE PROGRAM LINKS STOP WORKING     |
+|vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv|
+
+_______________________________________________________________________________________________________________________________________________________________________
+ScriptKidd is a big directory of many program files, and documentation on programming languages and resources for beginners, learners, and experts
+ScriptKidd follows the following programming languages:
+
+Python
+HTML
+Scratch 1.4
+Scratch 2.0
+Javascript
+
+There are some files that don't come with eclipse that you should download as resources. Choose one or more of any of the following categories
+
+Programming 
+
+Python (REQUIRED)
+https://www.python.org
+
+Notepad++
+https://www.notepadplusplus.com
+
+Notepad (optional)
+C:\Windows\Notepad.exe 
+
+Microsoft Visual Studio
+https://www.visualstudio.microsoft.com
+
+Google chrome (optional)
+https://www.google.com/chrome/index.html
+
+Mozilla Firefox (English) (optional)
+https://www.mozilla.org/en-US/firefox/new/
+
+Internet Explorer (optional)
+C:\Program Files(x86)\InternetExplorer\iexplore.exe
+
+Microsoft HTML workshop 1.4 (English) (optional)
+https://www.microsoft.com/en-us/download/details.aspx?id=21138

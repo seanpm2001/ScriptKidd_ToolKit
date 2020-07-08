@@ -1,0 +1,16 @@
+I am really sorry, but I was unable to put out an update today. I got burnt out of site development and I have been devoting more time to other projects
+Version number update info
+scheduling
+the site has daily updates, here is the version number schedule:
+Saturday - Version #.0 update
+Sunday - Version #.1 update
+Monday - Version #.2 update
+Tuesday - Version #.3 update
+Wednesday - Version #.4 update
+Thursday - Version #.5 update
+Friday - Version #.6 update
+# = the 2nd decimal value in the site version
+example: #.##.2
+if # = 1 and ## = 27
+then the example means: 1.27.2
+This schedule info has been included in all updates since July 16th 2018
